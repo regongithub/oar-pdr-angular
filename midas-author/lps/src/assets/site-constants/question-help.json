@@ -9,7 +9,7 @@
             "add": "<p>Keywords field (required), enter terms that could help both technical and non-technical users to discover your dataset, up to a maximum of 4,000 characters.<p> <i>[Helpful examples, <a href='https://data.nist.gov/sdp/#/policy'>links to policy and guideance</a>]</i>"
         },
         "components": {
-            "general": "<p>In this section you can edit the title, and description of the links to your dataset files or the homepage you created.",
+            "general": "<p>In this section you can edit the title and description of the links to your dataset files or the homepage you created.",
             "add": "<p>You are in Access Page section. Placeholder for 'add' help text... <p> <i>[Helpful examples, <a href='https://data.nist.gov/sdp/#/policy'>links to policy and guideance</a>]</i>",
             "edit": "<p>The title, and descriptions of each link are editable. They should be short and descriptive of the file itself<p> For example: A zip file from 'Marshmello Test Results' might be titled 'Zip Folder with Marshmello Test Results Data Files'; and the description could read 'Zip folder containing 12 date separated csv files of the results from preschool Marshmello Tests.'",
             "dragdrop": "<p>To reorder these links, drag and drop the rectangle surrounding the link you would like to move.<p>"
